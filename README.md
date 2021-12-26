@@ -1,15 +1,16 @@
 ### Hi there 👋
-
+<p align="left"> 
   <a href="http://twitter.com/ShinjyukuTokyo">
     <img height="20" src="https://img.shields.io/twitter/follow/ShinjyukuTokyo?label=Twitter&logo=twitter&style=flat" />
   </a>  
-  <br>
-  <br>
+  </p>
+  
+  
 #### Thinking about 🤔
-  🤔 Tor server
-  <br>
+  🤔 Tor server  
+
   🤔 Speedtest
-  <br>
+ 
 
 <!--
 **ragujp/ragujp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
