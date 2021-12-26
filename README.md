@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   <a href="http://twitter.com/ShinjyukuTokyo">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/ShinjyukuTokyo?label=Twitter&logo=twitter&style=flat" />
   </a>
 <!--
 **ragujp/ragujp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
