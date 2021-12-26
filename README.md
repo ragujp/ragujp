@@ -7,7 +7,7 @@
   
   
 #### Thinking about 🤔
-  🤔 Tor server  
+  🤔 Tor  
   🤔 Speedtest
   
   
