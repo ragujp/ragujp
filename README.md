@@ -8,7 +8,7 @@
   
 #### Thinking about 🤔
   🤔 Tor  
-  🤔 Speedtest
+  🤔 Speedtest  
   🤔 Fediverse
   
  
