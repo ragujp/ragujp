@@ -10,7 +10,7 @@
   🤔 Tor  
   🤔 Speedtest  
   🤔 Fediverse
-  
+  🤔 BGP
  
 
 <!--
