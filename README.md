@@ -8,10 +8,10 @@
   -->
   
 #### Thinking about 🤔
-  🤔 Tor  
-  🤔 Speedtest  
   🤔 Fediverse  
   🤔 BGP
+  🤔 Speedtest  
+  🤔 Tor  
  
 
 <!--
