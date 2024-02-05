@@ -9,7 +9,7 @@
   
 #### Thinking about 🤔
   🤔 Fediverse  
-  🤔 BGP
+  🤔 BGP  
   🤔 Speedtest  
   🤔 Tor  
  
