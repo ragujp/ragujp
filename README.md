@@ -7,11 +7,7 @@
   </p>
   -->
   
-#### Thinking about 🤔
-  🤔 Fediverse  
-  🤔 BGP  
-  🤔 Speedtest  
-  🤔 Tor  
+####  🤔
  
 
 <!--
